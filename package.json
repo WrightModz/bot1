@@ -1,0 +1,21 @@
+{
+  "name": "discordbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dennis",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "cron": "^1.8.2",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "yt-search": "^2.7.3",
+    "ytdl-core": "^4.5.0"
+  }
+}

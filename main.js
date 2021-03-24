@@ -65,4 +65,4 @@ client.on('message', message => {
 })
 
 keepAlive()
-client.login('ODE2NzU3NDU0NjgzNTA0NzMy.YD_mpw._2rChuYvCgnSor0EHKpvBf1tV8s');
+client.login('ODE2NzU3NDU0NjgzNTA0NzMy.YD_mpw.3LOZSON5LfwlZfMcTrxQVt1dB6Y');
